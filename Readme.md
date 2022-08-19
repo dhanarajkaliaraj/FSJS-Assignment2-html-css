@@ -6,6 +6,6 @@
     - CSS position.
 ### :hourglass_flowing_sand: Time taken to complete!
     - 2 hours
-### :computer: [Assignment-2 live link](https://dhanaraj-assignment2.netlify.app)
+### :computer: [Assignment-2 link](https://dhanaraj-assignment2.netlify.app)
  
 <div align="right">:name_badge: Dhanaraj Kaliaraj</div>
